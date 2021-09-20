@@ -1,0 +1,8 @@
+{
+	"name":"sistema/citigate",
+	"autoload":{
+		"psr-4":{
+			"App\\":"app/"
+		}
+	}
+}
